@@ -25,8 +25,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="101" column="32" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
+            <state relative-caret-position="271">
+              <caret line="101" column="13" lean-forward="true" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548835538864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit distributed">
+      <created>1548837340182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548837340182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -135,7 +142,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="954" y="31" width="982" height="931" extended-state="0" />
+    <frame x="826" y="17" width="982" height="931" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
@@ -169,7 +176,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试pycharm commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试pycharm commit" />
+    <MESSAGE value="commit distributed" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit distributed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/zhihuuser/spiders/zhihu.py">
@@ -181,8 +189,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="101" column="32" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
+        <state relative-caret-position="271">
+          <caret line="101" column="13" lean-forward="true" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
         </state>
       </provider>
     </entry>

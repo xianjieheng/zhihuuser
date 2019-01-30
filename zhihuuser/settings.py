@@ -101,6 +101,4 @@ DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
 
 REDIS_URL = 'redis://localhost@localhost:6379'
 
-
-#git-test
-#git-test2
+#
